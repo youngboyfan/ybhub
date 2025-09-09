@@ -5,8 +5,8 @@ end
 wait(math.random())
 
 local games = {
-    [72829404259339] = "https://api.luarmor.net/files/v3/loaders/99cab477325f512426378bd5229d68e6.lua",
-    [14067600077]   = "https://api.luarmor.net/files/v3/loaders/0aa592477a28f6168a110027f5d960d5.lua"
+    [121864768012064] = "https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/fishit",
+    [72829404259339]   = "https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/arx"
 }
 
 local placeId = game.PlaceId
