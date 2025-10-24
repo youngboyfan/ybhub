@@ -1,17 +1,16 @@
-if not game:IsLoaded() then
-    game.Loaded:Wait()
+if not game:IsLoaded() then 
+    game.Loaded:Wait() 
 end
 
 wait(math.random())
 
 local games = {
-    [121864768012064] = "https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/fishit",
-    [72829404259339]   = "https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/arx"
+    [15009415] = 'https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/arx', -- arx 
+    [121864768012064] = 'https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/fishit', -- fishit
+    [12229756] = 'https://cdn.authguard.org/virtual-file/391e9350aec448aab7ed0c24c07aeb29' -- als 
 }
 
-local placeId = game.PlaceId
-
-if games[placeId] then
+if games[game.CreatorId] then
     task.wait(math.random())
-    loadstring(game:HttpGet(games[placeId]))()
+    loadstring(game:HttpGet(games[game.CreatorId]))()
 end
