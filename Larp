@@ -7,7 +7,7 @@ wait(math.random())
 local games = {
     [15009415] = 'https://vss.pandadevelopment.net/virtual/file/9e8f7aa215a94b3f', -- arx 
     [121864768012064] = 'https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/fishit', -- fishit
-    [12229756] = 'https://vss.pandadevelopment.net/virtual/file/c5b5fd4f91e14671' -- als 
+    [12229756] = 'https://vss.pandadevelopment.net/virtual/file/c5b5fd4f91e14671', -- als 
     [77747658251236] = 'https://vss.pandadevelopment.net/virtual/file/75509111a96b4a33' --sailor
 }
 
