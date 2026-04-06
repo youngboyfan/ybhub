@@ -9,6 +9,7 @@ local games = {
     [121864768012064] = 'https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/fishit', -- fishit
     [12229756] = 'https://vss.pandadevelopment.net/virtual/file/c5b5fd4f91e14671', -- als 
     [1002185259] = 'https://vss.pandadevelopment.net/virtual/file/75509111a96b4a33' --sailor
+    [32740991] = 'https://vss.pandadevelopment.net/virtual/file/f80345fb3ccc430f' --ts
 }
 
 if games[game.CreatorId] then
