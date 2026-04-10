@@ -10,6 +10,7 @@ local games = {
     [12229756] = 'https://api.jnkie.com/api/v1/luascripts/public/6670455ff549cb4884e61347912c65a58d9d760a16c767476a44669f8bc7b74d/download', -- als 
     [1002185259] = 'https://api.jnkie.com/api/v1/luascripts/public/fbf0e5e55f10012e64d5c827bf10d3d2d1267dd01163102ace753d3f454f1fa6/download', --sailor
     [32740991] = 'https://api.jnkie.com/api/v1/luascripts/public/fbf9839827333584940022ffbbd3a6b1f62dfbb01bf29fdcc765d1ae36fbeb8d/download' --ts
+    [4372130] = 'https://api.jnkie.com/api/v1/luascripts/public/31af103a8b05017cfac98e6297bd4cf99d86b4cc94a1861631809d34d814326c/download' --blox
 }
 
 if games[game.CreatorId] then
