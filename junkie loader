@@ -12,7 +12,7 @@ local games = {
     [32740991] = 'https://api.jnkie.com/api/v1/luascripts/public/fbf9839827333584940022ffbbd3a6b1f62dfbb01bf29fdcc765d1ae36fbeb8d/download', --ts
     [4372130] = 'https://api.jnkie.com/api/v1/luascripts/public/31af103a8b05017cfac98e6297bd4cf99d86b4cc94a1861631809d34d814326c/download', --blox
     [1041977165] = 'https://api.jnkie.com/api/v1/luascripts/public/7121f044ef1d5592bb33092444267e20adcfb9b26514344a557c41cbf8b270a8/download', --luckyblock
-    [1220158530] = 'https://api.jnkie.com/api/v1/luascripts/public/7bcb6ce05ccc59ad7434d9fe1df7a12c1f0c77b68c216832377b0001c8843d33/download' -aw3
+    [34783288] = 'https://api.jnkie.com/api/v1/luascripts/public/7bcb6ce05ccc59ad7434d9fe1df7a12c1f0c77b68c216832377b0001c8843d33/download' --aw3
 }
 
 if games[game.CreatorId] then
