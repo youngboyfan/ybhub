@@ -12,9 +12,8 @@ local games = {
     [32740991] = 'https://vss.pandadevelopment.net/virtual/file/f80345fb3ccc430f', --ts
     [4372130] = 'https://vss.pandadevelopment.net/virtual/file/e5eaf2a6411e49d7', --blox
     [1041977165] = 'https://vss.pandadevelopment.net/virtual/file/1904bcc8082f4409', --luckyblock
-    [34783288] = 'https://vss.pandauth.com/virtual/file/2cca6b83be1c4475' -aw3
+    [1220158530] = 'https://vss.pandauth.com/virtual/file/2cca6b83be1c4475' -aw3
 }
-
 if games[game.CreatorId] then
     task.wait(math.random())
     loadstring(game:HttpGet(games[game.CreatorId]))()
