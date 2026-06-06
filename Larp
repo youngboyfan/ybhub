@@ -5,14 +5,14 @@ end
 wait(math.random())
 
 local games = {
-    [15009415] = 'https://vss.pandadevelopment.net/virtual/file/9e8f7aa215a94b3f', -- arx 
+    [15009415] = 'https://vss.pandauth.com/kv/9e8f7aa215a94b3f', -- arx 
     [121864768012064] = 'https://raw.githubusercontent.com/youngboyfan/ybhub/refs/heads/main/fishit', -- fishit
     [12229756] = 'https://vss.pandadevelopment.net/virtual/file/c5b5fd4f91e14671', -- als 
-    [1002185259] = 'https://vss.pandadevelopment.net/virtual/file/75509111a96b4a33', --sailor
-    [32740991] = 'https://vss.pandadevelopment.net/virtual/file/f80345fb3ccc430f', --ts
-    [4372130] = 'https://vss.pandadevelopment.net/virtual/file/e5eaf2a6411e49d7', --blox
-    [1041977165] = 'https://vss.pandadevelopment.net/virtual/file/1904bcc8082f4409', --luckyblock
-    [34783288] = 'https://vss.pandauth.com/virtual/file/2cca6b83be1c4475' --aw3
+    [1002185259] = 'https://vss.pandauth.com/kv/75509111a96b4a33', --sailor
+    [32740991] = 'https://vss.pandauth.com/kv/f80345fb3ccc430f', --ts
+    [4372130] = 'https://vss.pandauth.com/kv/e5eaf2a6411e49d7, --blox
+    [1041977165] = 'https://vss.pandauth.com/kv/8e4d7c23666340e7', --luckyblock
+    [34783288] = 'https://vss.pandauth.com/kv/e5eaf2a6411e49d7' --aw3
 }
 if games[game.CreatorId] then
     task.wait(math.random())
