@@ -10,7 +10,7 @@ local games = {
     [12229756] = 'https://vss.pandadevelopment.net/virtual/file/c5b5fd4f91e14671', -- als 
     [1002185259] = 'https://vss.pandauth.com/kv/75509111a96b4a33', --sailor
     [32740991] = 'https://vss.pandauth.com/kv/f80345fb3ccc430f', --ts
-    [4372130] = 'https://vss.pandauth.com/kv/e5eaf2a6411e49d7, --blox
+    [4372130] = 'https://vss.pandauth.com/kv/e5eaf2a6411e49d7', --blox
     [1041977165] = 'https://vss.pandauth.com/kv/8e4d7c23666340e7', --luckyblock
     [34783288] = 'https://vss.pandauth.com/kv/e5eaf2a6411e49d7' --aw3
 }
