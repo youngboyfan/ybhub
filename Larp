@@ -12,7 +12,8 @@ local games = {
     [32740991] = 'https://vss.pandauth.com/kv/f80345fb3ccc430f', --ts
     [4372130] = 'https://vss.pandauth.com/kv/e5eaf2a6411e49d7', --blox
     [1041977165] = 'https://vss.pandauth.com/kv/8e4d7c23666340e7', --luckyblock
-    [34783288] = 'https://vss.pandauth.com/kv/2cca6b83be1c4475' --aw3
+    [34783288] = 'https://vss.pandauth.com/kv/2cca6b83be1c4475', --aw3
+    [33861560] = 'https://vss.pandauth.com/virtual/file/4279c4de9a4542f1' --utdx
 }
 if games[game.CreatorId] then
     task.wait(math.random())
