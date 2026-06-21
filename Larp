@@ -14,6 +14,7 @@ local games = {
     [1041977165] = 'https://vss.pandauth.com/kv/8e4d7c23666340e7', --luckyblock
     [34783288] = 'https://vss.pandauth.com/kv/2cca6b83be1c4475', --aw3
     [33861560] = 'https://vss.pandauth.com/virtual/file/4279c4de9a4542f1', --utdx
+    [168519468] = 'https://vss.pandauth.com/virtual/file/77f3ca226f5e49d6', --astral
     [9190691] = 'https://vss.pandauth.com/virtual/file/cd28827ac9dd4029' --squadron
 }
 if games[game.CreatorId] then
